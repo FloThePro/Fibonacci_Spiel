@@ -2,7 +2,7 @@
 Entwicklung eines Fibonacci-Spiels für das Projekt im Modul IT-Projektmanagement
 
 ## Code
-Der Code befindet sich hier im Ordner und ist ausführlich dokumentiert. Das Programm besteht aus den zwei Klassen [Calculator.java](https://github.com/FloThePro/Fibonacci_Spiel/blob/master/Fibonacci_Spiel/src/Calculation/Calculator.javaCalculator.java) und [MainFib.java](https://github.com/FloThePro/Fibonacci_Spiel/blob/master/Fibonacci_Spiel/src/Calculation/MainFib.java).
+Der Code befindet sich hier im Ordner und ist ausführlich dokumentiert. Das Spiel besteht aus den zwei Klassen [Calculator.java](https://github.com/FloThePro/Fibonacci_Spiel/blob/master/Fibonacci_Spiel/src/Calculation/Calculator.javaCalculator.java) und [MainFib.java](https://github.com/FloThePro/Fibonacci_Spiel/blob/master/Fibonacci_Spiel/src/Calculation/MainFib.java). Dabei wird die Main-Klasse zum Spielen aufgerufen. Sie besteht ausschließlich aus der Main-Methode, die den User durch das Spiel führt. Sie fragt nach dem Szenario und der gewünschten Zahl und später nach der richtigen Lösung. Im Calculator werden die Methoden für die Berechnung definiert, die an der entsprechenden Stelle in der Main-Methode aufgerufen werden.
 
 ## Projektauftrag
 Im Projektauftrag befinden sich eine Schnellübersicht der Meilensteine sowie die Projektbeteiligten.
