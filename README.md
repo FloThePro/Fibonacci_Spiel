@@ -1,7 +1,7 @@
 # Fibonacci_Spiel
 Entwicklung eines Fibonacci-Spiels für das Projekt im Modul IT-Projektmanagement
 
-# Code
+## Code
 Findet sich hier im Ordner.
 
 # Projektauftrag
