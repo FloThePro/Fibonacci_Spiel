@@ -2,7 +2,7 @@
 Entwicklung eines Fibonacci-Spiels für das Projekt im Modul IT-Projektmanagement
 
 ## Code
-Der Code befindet sich hier im Ordner.
+Der Code befindet sich hier im Ordner und ist ausführlich dokumentiert. Das Programm besteht aus den zwei Klassen Calculator.java und MainFib.java.
 
 ## Projektauftrag
 Im Projektauftrag befinden sich eine Schnellübersicht der Meilensteine sowie die Projektbeteiligten.
