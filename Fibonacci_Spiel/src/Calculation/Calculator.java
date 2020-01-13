@@ -46,8 +46,8 @@ public class Calculator {
 	public boolean giveStelle(int stelle) {
 		fillArray();
 		int eingabe;
-		System.out.println("Sie haben die " + stelle + " ausgewählt.");
-		System.out.println("Geben Sie bitte die korrekte Zahl an dieser Stelle an.");
+		System.out.println("Du hast die " + stelle + " ausgewählt.");
+		System.out.println("Gib bitte die korrekte Zahl an dieser Stelle an.");
 		eingabe = s.nextInt();
 		
 		if (eingabe == fibonacciNumbers[stelle - 1]) {
