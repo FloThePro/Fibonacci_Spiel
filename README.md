@@ -15,4 +15,5 @@ Unter Design sprint findet sich der Verlauf der Anforderungserhebung mittels ein
 
 ## Backlog
 Den Backlog findet Ihr [hier](https://fabiankors.backlog.com/projects/FIBONACCIDEVELOPMENT)
+
 Enthalten sind die User Stories und das UML-Diagramm.
